@@ -12,4 +12,7 @@ I wanted to make this 2d pixel art game to learn all the basic fundamentals of U
 
 
 
+Also FYI, I'm new to Github so I struggled to organise my repository. Sorry about that.
 
+Thanks for reading,
+Kelly
